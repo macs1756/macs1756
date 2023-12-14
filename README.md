@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Lviv</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macs1756&label=Profile%20views&color=0e75b6&style=flat" alt="macs1756" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
