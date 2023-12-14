@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maksum Kindrativ</h1>
 <h3 align="center">A passionate frontend developer from Lviv</h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
+<h3>⠀</h3>
+<h3>⠀</h3>
+<h3>⠀</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macs1756&" alt="macs1756" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
