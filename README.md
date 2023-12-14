@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maksum Kindrativ</h1>
 <h3 align="center">A passionate frontend developer from Lviv</h3>
 <h3>⠀</h3>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=macs1756&show_icons=true&locale=en&layout=compact" alt="macs1756" /></p>
+<h3>⠀</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macs1756&" alt="macs1756" /></p>
-
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=macs1756&show_icons=true&locale=en&layout=compact" alt="macs1756" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=macs1756&show_icons=true&locale=en" alt="macs1756" /></p>
+<h3>⠀</h3>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=macs1756&show_icons=true&locale=en" alt="macs1756" /></p>
+<h3>⠀</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
