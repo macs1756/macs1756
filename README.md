@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksum Kindrativ</h1>
-<h3 align="center">A passionate frontend developer from Lviv</h3>
+<h3 align="center">A passionate fullstack developer from Lviv</h3>
 
 <h3>⠀</h3>
 
